@@ -1,1 +1,12 @@
 #created by ide webstorm
+.idea/
+
+
+# dependencies
+/node_modules
+
+*.css
+*.css.map
+
+# production
+/build
